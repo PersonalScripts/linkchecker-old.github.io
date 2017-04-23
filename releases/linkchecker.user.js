@@ -1,7 +1,7 @@
 ﻿// ==UserScript==
 // @name        Verificador de uploads [FW]
 // @description Userscript para auxiliar na verificação de uploads na FileWarez.
-// @include     /^http:\/\/(www\.)?filewarez\.tv/.*$/
+// @include     /^http(s)?:\/\/(www\.)?filewarez\.tv/.*$/
 // @copyright   2016, XOR
 // @author      XOR
 // @version     0.3.3
